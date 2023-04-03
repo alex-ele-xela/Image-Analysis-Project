@@ -1,37 +1,37 @@
 Classifier,Test Proportion,Accuracy (without LDA),Accuracy (with LDA)
-Logistic Regression,0.1,0.8,0.76
-Support Vector Machine,0.1,0.62,0.78
-Gaussian Naive Bayes,0.1,0.72,0.74
-K Nearest Neighbours,0.1,0.8,0.78
-Decision Tree,0.1,0.72,0.78
-Random Forest,0.1,0.7,0.78
-Logistic Regression,0.15,0.84,0.813
-Support Vector Machine,0.15,0.68,0.827
-Gaussian Naive Bayes,0.15,0.707,0.787
-K Nearest Neighbours,0.15,0.827,0.827
-Decision Tree,0.15,0.8,0.813
-Random Forest,0.15,0.693,0.827
-Logistic Regression,0.2,0.81,0.81
-Support Vector Machine,0.2,0.66,0.82
-Gaussian Naive Bayes,0.2,0.71,0.79
-K Nearest Neighbours,0.2,0.82,0.82
-Decision Tree,0.2,0.76,0.8
-Random Forest,0.2,0.71,0.82
-Logistic Regression,0.25,0.8,0.816
-Support Vector Machine,0.25,0.656,0.824
-Gaussian Naive Bayes,0.25,0.704,0.8
-K Nearest Neighbours,0.25,0.8,0.824
-Decision Tree,0.25,0.776,0.808
-Random Forest,0.25,0.704,0.824
-Logistic Regression,0.3,0.813,0.827
-Support Vector Machine,0.3,0.687,0.833
-Gaussian Naive Bayes,0.3,0.707,0.813
-K Nearest Neighbours,0.3,0.8,0.833
-Decision Tree,0.3,0.72,0.82
-Random Forest,0.3,0.7,0.833
-Logistic Regression,0.35,0.811,0.829
-Support Vector Machine,0.35,0.691,0.834
-Gaussian Naive Bayes,0.35,0.709,0.811
-K Nearest Neighbours,0.35,0.794,0.834
-Decision Tree,0.35,0.72,0.817
-Random Forest,0.35,0.674,0.834
+Logistic Regression,0.1,0.9,0.9
+Support Vector Machine,0.1,0.76,0.9
+Gaussian Naive Bayes,0.1,0.72,0.9
+K Nearest Neighbours,0.1,0.84,0.9
+Decision Tree,0.1,0.78,0.84
+Random Forest,0.1,0.66,0.9
+Logistic Regression,0.15,0.867,0.867
+Support Vector Machine,0.15,0.747,0.867
+Gaussian Naive Bayes,0.15,0.76,0.867
+K Nearest Neighbours,0.15,0.853,0.867
+Decision Tree,0.15,0.76,0.84
+Random Forest,0.15,0.693,0.867
+Logistic Regression,0.2,0.82,0.84
+Support Vector Machine,0.2,0.71,0.84
+Gaussian Naive Bayes,0.2,0.76,0.84
+K Nearest Neighbours,0.2,0.83,0.84
+Decision Tree,0.2,0.77,0.81
+Random Forest,0.2,0.67,0.84
+Logistic Regression,0.25,0.816,0.824
+Support Vector Machine,0.25,0.672,0.824
+Gaussian Naive Bayes,0.25,0.728,0.824
+K Nearest Neighbours,0.25,0.816,0.824
+Decision Tree,0.25,0.736,0.8
+Random Forest,0.25,0.656,0.824
+Logistic Regression,0.3,0.827,0.82
+Support Vector Machine,0.3,0.667,0.82
+Gaussian Naive Bayes,0.3,0.733,0.82
+K Nearest Neighbours,0.3,0.807,0.82
+Decision Tree,0.3,0.787,0.793
+Random Forest,0.3,0.627,0.82
+Logistic Regression,0.35,0.817,0.806
+Support Vector Machine,0.35,0.64,0.8
+Gaussian Naive Bayes,0.35,0.731,0.806
+K Nearest Neighbours,0.35,0.771,0.806
+Decision Tree,0.35,0.669,0.783
+Random Forest,0.35,0.657,0.806
