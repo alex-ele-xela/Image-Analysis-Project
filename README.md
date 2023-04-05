@@ -21,6 +21,11 @@ This project aims to compare Machine Learning and Deep Learning algorithms in th
 
 [Zabi Ulla Ismail](https://github.com/zabi-32)
 
+## Links
+
+1. [**Machine Learning Accuracy metrics**](./Pneumonia%20Detector/Machine_Learning_Metrics.csv)
+2. [**Pneumonia Detection Notebook**](./Pneumonia%20Detector/pneumonia_detector.ipynb)
+
 ## Introduction
 
 The most common cause of death in children under five is pneumonia, an inflammatory lung disease. According to a UNICEF report, it affected almost 880,000 children in 2020 and was accountable for nearly 16% of all fatalities of children under five. Most of the affected children were under two years old. Early recognition of pediatric pneumonia can aid in accelerating the healing process. In attempting to identify pneumonic lungs from chest X-rays accurately, convolutional neural network models are presented in this research. Medical practitioners can use these models to treat pneumonia in the real world.
