@@ -25,6 +25,9 @@ This project aims to compare Machine Learning and Deep Learning algorithms in th
 
 1. [**Machine Learning Accuracy metrics**](./Pneumonia%20Detector/Machine_Learning_Metrics.csv)
 2. [**Pneumonia Detection Notebook**](./Pneumonia%20Detector/pneumonia_detector.ipynb)
+3. [**CNN Accuracy metrics**](./Pneumonia%20Detector/CNN_Metrics.csv)
+4. [**VGG16 Accuracy metrics**](./Pneumonia%20Detector/VGG16_Metrics.csv)
+5. [**Resnet Accuracy metrics**](./Pneumonia%20Detector/Resnet_Metrics.csv)
 
 ## Introduction
 
